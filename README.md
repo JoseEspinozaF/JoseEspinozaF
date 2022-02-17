@@ -6,7 +6,7 @@ My WebSite | [JoseEspinoza](https://joseespinoza.netlify.app)
   
 Actualmente soy Desarrollador web y programador autodidacta. Me gusta los desafíos, crear e innovar siempre ha sido una filosofía mía desde pequeño y también que el aprendizaje constante es un punto clave para el crecimiento y desarrollo personal. También Me gustaría decir que aprender ha sido un proceso largo, sin embargo, siempre busco el crecimiento constante y poner de mi esfuerzo para aprender cosas nuevas.
 </p> 
-  <img align="right" alt="GIF" src="https://img.freepik.com/vector-gratis/computadora-portatil-icono-isometrico-codigo-programa-desarrollo-software-aplicaciones-programacion-neon-oscuro_39422-971.jpg?t=st=1645140042~exp=1645140642~hmac=f0f70eca65dceb07eb624b55e85ac333217a99edec41afc7334ad43369865a76&w=900" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://img.freepik.com/vector-gratis/desarrolladores-web-dibujados-mano_23-2148819604.jpg?t=st=1645141660~exp=1645142260~hmac=aa22d0debfd8335809d16a1b6b2f601af9eafc3b9bd6c4bafca167e5cd46727f&w=996" width="500" height="320" />
 
 Follow Me
 ----|

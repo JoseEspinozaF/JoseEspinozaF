@@ -1,7 +1,7 @@
 
-<h2 align="center">👋 Hello! I'm José Espinoza</h2> 
+<h2 align="center">Hello! I'm José Espinoza 👋💻 </h2> 
 <p>
-Actualmente soy Desarrollador web </span> y programador autodidacta. Me gusta los desafíos, crear e innovar siempre ha sido una filosofía mía desde pequeño y también que el aprendizaje constante es un punto clave para el crecimiento y desarrollo personal. También Me gustaría decir que aprender ha sido un proceso largo, sin embargo, siempre busco el crecimiento constante y poner de mi esfuerzo para aprender cosas nuevas.
+Actualmente soy Desarrollador web : </span> y programador autodidacta. Me gusta los desafíos, crear e innovar siempre ha sido una filosofía mía desde pequeño y también que el aprendizaje constante es un punto clave para el crecimiento y desarrollo personal. También Me gustaría decir que aprender ha sido un proceso largo, sin embargo, siempre busco el crecimiento constante y poner de mi esfuerzo para aprender cosas nuevas.
 </p> 
 
 Follow Me

@@ -1,14 +1,13 @@
 
 <h2 align="center">Hello! I'm José Espinoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">💻 </h2> 
 <p>
-  
-My WebSite | [JoseEspinoza](https://joseespinoza.netlify.app)
-  
-Actualmente soy Desarrollador web y programador autodidacta. Me gusta los desafíos, crear e innovar siempre ha sido una filosofía mía desde pequeño y también que el aprendizaje constante es un punto clave para el crecimiento y desarrollo personal. También Me gustaría decir que aprender ha sido un proceso largo, sin embargo, siempre busco el crecimiento constante y poner de mi esfuerzo para aprender cosas nuevas.
-</p> 
+ 
+<p align="left">  
+I am a web developer and self-taught programmer. I like challenges, creating and innovating has always been a philosophy of mine since I was little and also that constant learning is a key point for personal growth and development.
+</p>
     <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-
+---- My WebSite | [JoseEspinoza](https://joseespinoza.netlify.app)
 Follow Me
 ----|
 <p align="left">
@@ -33,6 +32,14 @@ Contact Me
   <a  href="mailto:joseespi7775@gmail.com" target="_blank">
        <img alt="Email" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width=22px"  >
   </a> 
- 
-   
 </p>
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<p align="left">
+    <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="39" height="40"/> </a>  
+ 
+</p>                                                                                              
+ 
+ 

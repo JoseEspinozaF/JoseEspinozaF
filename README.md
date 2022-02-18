@@ -1,7 +1,5 @@
-
 <h2 align="center">Hello! I'm José Espinoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">💻 </h2> 
-<p>
- 
+
 <p align="left">  
 I am a web developer and self-taught programmer. I like challenges, creating and innovating has always been a philosophy of mine since I was little and also that constant learning is a key point for personal growth and development.
 </p>
